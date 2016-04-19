@@ -29,6 +29,10 @@ library to compile the native extensions.
 
     apt-get install portaudio19-dev libmpg123-dev libncurses-dev ruby1.9.1-dev
     gem install soundcloud2000
+    
+### Archlinux
+    
+    gem install soundcloud2000 curses
 
 ## Usage
 
